@@ -1,4 +1,4 @@
-# Telecom Churn Case Study
+# Telecom Churn Case Study - MachineLearning-2
 
 ## Problem Statement
 
