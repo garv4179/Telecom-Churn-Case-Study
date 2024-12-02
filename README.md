@@ -1,5 +1,12 @@
 # Telecom Churn Case Study - MachineLearning-2
 
+Kaggel hackathon- https://www.kaggle.com/competitions/telecom-churn-case-study-hackathon-c-65/leaderboard
+
+
+![image](https://github.com/user-attachments/assets/c4ed377f-2cf4-4060-84b8-7e98d8e12756)
+
+
+
 ## Problem Statement
 
 ## Business Problem Overview
